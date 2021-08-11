@@ -3,6 +3,8 @@
 #
 # scangsn.sh
 #
+# pping - https://gist.github.com/miminashi/23b381e8ea2cf394b3506401720c72ac
+#
 
 HOSTS_CSV="https://scrapbox.io/api/table/Geek-SpaceBox/GSNet%E3%81%AE%E3%83%9B%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7/hosts.csv"
 
