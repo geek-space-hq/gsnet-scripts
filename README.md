@@ -4,7 +4,7 @@ GSNet で使えるスクリプト置き場
 
 ## ディレクトリ構成
 
-- gatway-setup
+- gateway-setup
 
 ## ルール
 
